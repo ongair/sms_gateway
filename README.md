@@ -23,6 +23,8 @@ In your composer.json
 ### Usage
 
 ```
+  require_once 'gateway.php';
+
   $phone_number = '254722200200';
   $text = 'Hello world';  
 
